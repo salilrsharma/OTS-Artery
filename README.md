@@ -31,7 +31,7 @@ docker images
 We should be able to see the 'docker-artery' image.
 
 ### Install OpenTrafficSim (OTS)
-OpenTrafficSim (OTS) can be setup by following the [instruction](https://github.com/salilrsharma/OTS-Artery/blob/main/install_OTS.md). For further help with designing and running a traffic simulation case, please refer to the [user manual of OpenTrafficSim](https://opentrafficsim.org/manual/).
+OpenTrafficSim (OTS) can be setup by following the [instructions](https://github.com/salilrsharma/OTS-Artery/blob/main/install_OTS.md). For further help with designing and running a traffic simulation case, please refer to the [user manual of OpenTrafficSim](https://opentrafficsim.org/manual/).
 
 ### Run OTS-Artery
 1. Navigate to Artery directory and launch the CACC configuration of Artery by running the following command:
