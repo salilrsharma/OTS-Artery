@@ -1,6 +1,6 @@
 # OTS-Artery
 
-This repository contains the 
+This repository contains the instructions to setup and run OTS-Artery.
 
 ## System requirements
 
